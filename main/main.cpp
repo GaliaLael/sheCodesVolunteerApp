@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string>
-#include "Volunteer.h"
-#include "Admin.h"
+#include "../databases/VolunteerDatabase.h"
 using namespace std;
 
 int main() {
